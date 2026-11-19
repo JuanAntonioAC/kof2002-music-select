@@ -1,0 +1,12 @@
+backup/
+build/
+.vs/
+bin/
+obj/
+nuevas canciones/
+select characters/
+*.log
+*.user
+*.asm
+*.iso
+*.7z
